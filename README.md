@@ -8,5 +8,5 @@ DIG5508 Fall 2021 Final Project
 #Use the "DOWN ARROW" to decrease the size of the selected moon
 # Use the "LEFT and RIGHT ARROW" to alter the direction of the selected moon
 
-[P5.JS Edit](https://editor.p5js.org/kggrinsell/full/ZuRJqx770) 
- 
+[P5.JS](https://editor.p5js.org/kggrinsell/full/ZuRJqx770) 
+ [P5.JS EDIT](https://editor.p5js.org/kggrinsell/sketches/ZuRJqx770)
