@@ -24,11 +24,10 @@ Hello and Welcome! Here is my final for DIG-5508 Fall 2021
 
 [https://editor.p5js.org/kggrinsell/sketches/jVWTErPSi](url)
 
-<<<<<<< HEAD
-=======
+
 
 
 [Link](https://editor.p5js.org/kggrinsell/sketches/jVWTErPSi) 
 ```
 
->>>>>>> 312d07b51ac0c760786dec4cb845f242c662e0fd
+
