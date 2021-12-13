@@ -17,12 +17,12 @@ Hello and Welcome! Here is my final for DIG-5508 Fall 2021
 
 
 
-[https://editor.p5js.org/kggrinsell/sketches/jVWTErPSi](url)
 
 
 
 
-[Link](https://editor.p5js.org/kggrinsell/sketches/jVWTErPSi) 
+
+[P5.JS Edit](https://editor.p5js.org/kggrinsell/sketches/jVWTErPSi) 
 ```
 
 
