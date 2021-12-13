@@ -14,13 +14,13 @@ function keyPressed() {
     moons.splice(selectedMoon, 1);
   } else if (key === "p") {
     selectedMoon++;
-  } else if (keyCode === "UP_ARROW") {
+  } else if (keyCode === UP_ARROW) {
     moons[selectedMoon].size++;
-  }else if(keyCode === "DOWN_ARROW"){
+  }else if(keyCode === DOWN_ARROW){
     moons[selectedMoon].size--; 
-  }else if(keyCode === "LEFT_ARROW"){
+  }else if(keyCode === LEFT_ARROW){
     moons[selectedMoon].distance-=2
-  }else if(keyCode === "RIGHT_ARROW") {
+  }else if(keyCode === RIGHT_ARROW) {
     moons[selectedMoon].distance+=2
   }
     //banging my head into a wall. 
